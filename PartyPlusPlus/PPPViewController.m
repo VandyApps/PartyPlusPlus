@@ -43,6 +43,10 @@
                                                completionHandler:^(FBSession *session, NSError *error) {
                                                    if (!error) {
                                                        block();
+                                                   } else {
+                                                       if([[error userInfo] objectForKey:@"com.facebook.sdk:ErrorLoginFailedReason"] != nil){
+                                                           NSLog(@"%@",[[error userInfo] objectForKey:@"com.facebook.sdk:ErrorLoginFailedReason"]);
+                                                       }
                                                    }
                                                }];
 }
@@ -98,7 +102,7 @@
                 self.pageControl.hidden = NO;
                 
                 // Dismiss our SVProgressHUD
-                [SVProgressHUD showSuccessWithStatus:@"Done!"];
+                [SVProgressHUD showSuccessWithStatus:@"Events Loaded!"];
                 
             }
             
@@ -426,7 +430,7 @@
                 self.pageControl.hidden = NO;
                 
                 // Dismiss our SVProgressHUD
-                [SVProgressHUD showSuccessWithStatus:@"Done!"];
+                [SVProgressHUD showSuccessWithStatus:@"Events Refreshed!"];
                 
             }
             else [SVProgressHUD showErrorWithStatus:@"Didn't work. :("];

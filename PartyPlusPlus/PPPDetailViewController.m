@@ -61,7 +61,7 @@
     [self pullMessagePostsWithCallBack:^{
         // nothing to do
     }];
-
+    
     
     
     [self customizeUI];
@@ -77,7 +77,7 @@
     // Dispose of any resources that can be recreated.
 }
 
-#pragma mark - Utility methods 
+#pragma mark - Utility methods
 
 - (void)clearNavBarLogo {
     NSArray *navSubviews = [self.navigationController.navigationBar subviews];
@@ -128,7 +128,7 @@
     UIImageView *view;
     
     self.attendingScrollView.contentSize = CGSizeMake((self.thumbnailImageView.width + 5) * self.attendingFriendsUrls.count - 5, self.thumbnailImageView.height);
-
+    
     
     // Create events
     for (size_t i = 0; i < self.attendingFriendsUrls.count; ++i) {
@@ -143,7 +143,7 @@
         
         [SAViewManipulator addBorderToView:view withWidth:1.5 color:[UIColor whiteColor] andRadius:22];
         view.clipsToBounds = YES;
-//        [SAViewManipulator addShadowToView:view withOpacity:.8 radius:3 andOffset:CGSizeMake(1, 1)];
+        //        [SAViewManipulator addShadowToView:view withOpacity:.8 radius:3 andOffset:CGSizeMake(1, 1)];
         
         // Add it to the subview
         [self.attendingScrollView addSubview:view];
@@ -183,7 +183,7 @@
     UIImageView *view;
     
     self.photosScrollView.contentSize = CGSizeMake((self.wallPhotoImageView.width + 10) * self.imagePosts.count - 10, self.wallPhotoImageView.height);
-
+    
     // Create 10 events
     for (size_t i = 0; i < self.imagePosts.count; ++i) {
         
@@ -220,7 +220,7 @@
     }
     
     
-//    }
+    //    }
     
 }
 
@@ -256,7 +256,7 @@
             dispatch_async(dispatch_get_main_queue(), ^{
                 UIImage *image = [UIImage imageWithData:imgUrl];
                 if (image.size.width >= self.coverImageView.size.width && image.size.height >= self.coverImageView.size.height) {
-//                    self.coverImageView.contentMode = UIViewContentModeCenter;
+                    //                    self.coverImageView.contentMode = UIViewContentModeCenter;
                 }
                 [self.coverImageView setImage:[UIImage imageWithData:imgUrl]];
                 [loading stopAnimating];
@@ -264,7 +264,7 @@
                 [self.navigationController.navigationItem setRightBarButtonItem:oldItem];
             });
         });
-//        dispatch_release(downloadQueue);
+        //        dispatch_release(downloadQueue);
     } else [self.coverImageView setImage:self.event.image];
 }
 
@@ -287,24 +287,24 @@
     // Show the controller
     [self presentModalViewController:twitter animated:YES];
     
-//    // Called when the tweet dialog has been closed
-//    twitter.completionHandler = ^(TWTweetComposeViewControllerResult result)
-//    {
-//        NSString *title = @"Tweet Status";
-//        NSString *msg;
-//        
-//        if (result == TWTweetComposeViewControllerResultCancelled)
-//            msg = @"Tweet compostion was canceled.";
-//        else if (result == TWTweetComposeViewControllerResultDone)
-//            msg = @"Tweet composition completed.";
-//
-//        // Show alert to see how things went...
-//        UIAlertView* alertView = [[UIAlertView alloc] initWithTitle:title message:msg delegate:self cancelButtonTitle:@"Okay" otherButtonTitles:nil];
-//        [alertView show];
-//        
-//        // Dismiss the controller
-//        [self dismissModalViewControllerAnimated:YES];
-//    };
+    //    // Called when the tweet dialog has been closed
+    //    twitter.completionHandler = ^(TWTweetComposeViewControllerResult result)
+    //    {
+    //        NSString *title = @"Tweet Status";
+    //        NSString *msg;
+    //
+    //        if (result == TWTweetComposeViewControllerResultCancelled)
+    //            msg = @"Tweet compostion was canceled.";
+    //        else if (result == TWTweetComposeViewControllerResultDone)
+    //            msg = @"Tweet composition completed.";
+    //
+    //        // Show alert to see how things went...
+    //        UIAlertView* alertView = [[UIAlertView alloc] initWithTitle:title message:msg delegate:self cancelButtonTitle:@"Okay" otherButtonTitles:nil];
+    //        [alertView show];
+    //
+    //        // Dismiss the controller
+    //        [self dismissModalViewControllerAnimated:YES];
+    //    };
 }
 
 
@@ -315,8 +315,8 @@
         // Download photo
         UIActivityIndicatorView *loading = [[UIActivityIndicatorView alloc] initWithActivityIndicatorStyle:UIActivityIndicatorViewStyleWhiteLarge];
         [loading startAnimating];
-//        [self addSubview:loading];
-//        loading.center = self.center;
+        //        [self addSubview:loading];
+        //        loading.center = self.center;
         
         dispatch_queue_t downloadQueue = dispatch_queue_create("image downloader", NULL);
         dispatch_async(downloadQueue, ^{
@@ -337,7 +337,7 @@
                 [loading removeFromSuperview];
             });
         });
-//        dispatch_release(downloadQueue);
+        //        dispatch_release(downloadQueue);
     }
 }
 
@@ -410,7 +410,7 @@
     }];
     
     [requester start];
-
+    
 }
 
 - (void)pullAttendingPhotoURLsWithCallBack:(void (^)(void))callback; {
@@ -430,14 +430,14 @@
             NSMutableArray *tempPhotoArray = [NSMutableArray array];
             for (id dict in eventArrayFromGraphObject) {
                 NSString *photoURL = [[[dict objectForKey:@"picture"] objectForKey:@"data"] objectForKey:@"url"];
-
+                
                 [tempPhotoArray addObject:photoURL];
             }
             
             // Create an immutable copy for the property
             self.attendingFriendsUrls = [tempPhotoArray copy];
             callback();
-
+            
         }
         
     }];
@@ -493,6 +493,13 @@
                                                  defaultAudience:FBSessionDefaultAudienceFriends
                                                completionHandler:^(FBSession *session, NSError *error) {
                                                    /* handle success + failure in block */
+                                                   if(!error){
+                                                       
+                                                   } else {
+                                                       if([[error userInfo] objectForKey:@"com.facebook.sdk:ErrorLoginFailedReason"] != nil){
+                                                           NSLog(@"%@",[[error userInfo] objectForKey:@"com.facebook.sdk:ErrorLoginFailedReason"]);
+                                                       }
+                                                   }
                                                }];
 }
 
@@ -536,12 +543,12 @@
         
         // 3) Modify process to be the following
         [UIApplication sharedApplication].networkActivityIndicatorVisible = YES;
-            dispatch_async(backgroundQueue, ^(void) {
-                [self uploadImage:imageToSave];
-                dispatch_sync(dispatch_get_main_queue(), ^{
-                    [UIApplication sharedApplication].networkActivityIndicatorVisible = NO;
-                });
+        dispatch_async(backgroundQueue, ^(void) {
+            [self uploadImage:imageToSave];
+            dispatch_sync(dispatch_get_main_queue(), ^{
+                [UIApplication sharedApplication].networkActivityIndicatorVisible = NO;
             });
+        });
         
     }
     
@@ -598,6 +605,6 @@
     [self setNoPhotosLabel:nil];
     [self setCoverImageView:nil];
     [self setTwitterButton:nil];
-     [super viewDidUnload];
+    [super viewDidUnload];
 }
 @end
