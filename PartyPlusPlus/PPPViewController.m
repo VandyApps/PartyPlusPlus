@@ -20,13 +20,13 @@
 #import "UIImage+fixOrientation.h"
 
 
-#define EVENT_PARAMS @"name,picture.type(large),attending,description,location"
+#define EVENT_PARAMS @"name,picture.type(large),attending,description,location,start_time"
 #define PHOTO_PARAMS @"source"
 #define ATTENDING_PARAMS @"picture"
 
 
 @interface PPPViewController ()
-
+- (BOOL)isValidDate:(NSString *)string;
 @end
 
 @implementation PPPViewController
@@ -73,6 +73,9 @@
                 // temp event array to hold 
                 NSMutableArray *tempEventArray = [NSMutableArray array];
                 for (id dict in eventArrayFromGraphObject) {
+                    if (![self isValidDate:[dict objectForKey:@"start_time"]]) {
+                        continue;
+                    }
                     PPPEvent *event = [[PPPEvent alloc] initWithGraphDictionary:dict];
                     [tempEventArray addObject:event];
                 }
@@ -103,7 +106,7 @@
                 
                 // Dismiss our SVProgressHUD
                 [SVProgressHUD showSuccessWithStatus:@"Done!"];
-                
+//                NSLog(@"Done! call on main thread: %@", [NSThread isMainThread] ? @"YES" : @"NO");
             }
             
         }];
@@ -379,6 +382,50 @@
     self.events = [mutableEvents copy];
 }
 
+- (BOOL)isValidDate:(NSString *)string {
+    NSDateFormatter *df = [[NSDateFormatter alloc] init];
+    //2010-12-01T21:35:43+0000
+    [df setDateFormat:@"yyyy-MM-dd'T'HH:mm:ssZZZZ"];
+    NSDate *aDate = [df dateFromString:string];
+    NSString *aDateString;
+    
+//    // If it's more than a week away
+//    if ([aDate timeIntervalSinceNow] > 7 * 24 * 60 * 60) {
+//        [df setDateFormat:@"MMMM dd"];
+//        aDateString = [df stringFromDate:aDate];
+//    }
+//    // If it's more than tomorrow away
+//    else if ([aDate timeIntervalSinceNow] > 2 * 24 * 60 * 60) {
+//        [df setDateFormat:@"eeee"];
+//        aDateString = [df stringFromDate:aDate];
+//    }
+//    // It's more than today away
+//    else if ([aDate timeIntervalSinceNow] > 24 * 60 * 60) {
+//        aDateString = [NSString stringWithFormat:@"Tomorrow"];
+//    }
+//    // It's tonight
+//    else {
+//        aDateString = [NSString stringWithFormat:@"Tonight"];
+//    }
+    
+    if ([aDate timeIntervalSinceNow] > 0) {
+        return YES;
+    } else {
+        return NO;
+    }
+    
+//    NSString *aTimeString;
+//    if ([aDate timeIntervalSinceNow] > 5) {
+//        [df setDateFormat:@"h:mm a"];
+//        aTimeString = [df stringFromDate:aDate];
+//    } else aTimeString = @"Now";
+//    
+//    NSDictionary *dict = [NSDictionary dictionaryWithObjectsAndKeys:aDate, @"DATE", aDateString, @"DATESTR", aTimeString, @"TIMESTR", nil];
+//    
+//    return dict;
+}
+
+
 - (void)refresh {
     [SVProgressHUD showWithStatus:@"Refreshing..."];
     if (FBSession.activeSession.isOpen) {
@@ -399,6 +446,9 @@
                 // temp event array to hold
                 NSMutableArray *tempEventArray = [NSMutableArray array];
                 for (id dict in eventArrayFromGraphObject) {
+                    if (![self isValidDate:[dict objectForKey:@"start_time"]]) {
+                        continue;
+                    }
                     PPPEvent *event = [[PPPEvent alloc] initWithGraphDictionary:dict];
                     [tempEventArray addObject:event];
                 }
@@ -431,7 +481,8 @@
                 
                 // Dismiss our SVProgressHUD
                 [SVProgressHUD showSuccessWithStatus:@"Done!"];
-                
+//                NSLog(@"Done! call on main thread: %@", [NSThread isMainThread] ? @"YES" : @"NO");
+
             }
             else [SVProgressHUD showErrorWithStatus:@"Didn't work. :("];
         }];
@@ -593,7 +644,7 @@
     self.pageLabel.text = [NSString stringWithFormat:@"%d out of %d", page + 1, self.events.count];
     self.pageControl.currentPage = page;
     
-    if (page != [self.events indexOfObject:self.currentEvent] && page <= self.events.count && page >= 0) {
+    if (page != [self.events indexOfObject:self.currentEvent] && page < self.events.count && page >= 0) {
         self.currentEvent = [self.events objectAtIndex:page];
     }
 }

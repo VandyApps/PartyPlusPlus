@@ -1,0 +1,1080 @@
+TPartyPlusPlus
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Info.plist" PartyPlusPlus/PartyPlusPlus-Info.plist
+cProcessPCH "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch.pth" PartyPlusPlus/PartyPlusPlus-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/main.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPDetailViewController.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPDetailViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPEvent.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPEvent.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SVProgressHUD.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SVProgressHUD/SVProgressHUD.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPAppDelegate.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPImagePost.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPImagePost.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPPost.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPPost.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMainEventView.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMainEventView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPLoginViewController.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPLoginViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/OBGradientView.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/OBGradientView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPViewController.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAViewManipulator.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAViewManipulator.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+Color.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIImage+Color.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIView+Frame.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIView+Frame.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIViewController+Overview.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIViewController+Overview.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPTertiaryEventView.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPTertiaryEventView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAContentViewController.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAContentViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAMenuViewController.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAMenuViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+fixOrientation.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIImage+fixOrientation.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMessagePost.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMessagePost.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PhotoDetailViewController.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PhotoDetailViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlus" normal i386
+cGenerateDSYMFile "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app.dSYM" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlus"
+cCopyStringsFile "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/en.lproj/InfoPlist.strings" PartyPlusPlus/en.lproj/InfoPlist.strings
+cCpResource PartyPlusPlus/Default@2x.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default@2x.png
+cCpResource PartyPlusPlus/Default.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default.png
+cCpResource PartyPlusPlus/Default-568h@2x.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default-568h@2x.png
+cCompileStoryboard "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/en.lproj/MainStoryboard_iPhone.storyboard"
+cCompileStoryboard "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/en.lproj/MainStoryboard_iPad.storyboard"
+cCpResource PartyPlusPlus/Images/PlaceKitten.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PlaceKitten.png
+cCompileXIB "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMainEventView.xib"
+cCpResource PartyPlusPlus/Images/480.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/480.png
+cCompileXIB "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPTertiaryEventView.xib"
+cCpResource PartyPlusPlus/Images/Thumbnail.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Thumbnail.png
+cCpResource PartyPlusPlus/SVProgressHUD/SVProgressHUD.bundle DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/SVProgressHUD.bundle
+cCpResource PartyPlusPlus/Images/three_lines@2x.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/three_lines@2x.png
+cCpResource PartyPlusPlus/Images/fb.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb.png
+cCpResource PartyPlusPlus/Images/PartyPlusPlusLogo.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlusLogo.png
+cCpResource PartyPlusPlus/Images/fb36.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb36.png
+cCpResource PartyPlusPlus/Images/fb64.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb64.png
+cCompileXIB "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAMenuViewController.xib"
+cCpResource PartyPlusPlus/Images/PlusPlus@2x.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PlusPlus@2x.png
+cTouch "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c000000005092F0910000000000000110
+t1351807121
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+c00000000505A2E010000000000028740
+t1348087297
+s165696
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AdSupport.framework/AdSupport
+c00000000505A2E010000000000003C50
+t1348087297
+s15440
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000505A2E010000000000228FD0
+t1348087297
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000505A2E0200000000003DCEF0
+t1348087298
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000505A2E0200000000000015F7
+t1348087298
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000505A2E0300000000000BCB50
+t1348087299
+s772944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000505A2E0300000000001D57A0
+t1348087299
+s1922976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Social.framework/Social
+c00000000505A2E0300000000000E7950
+t1348087299
+s948560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Twitter.framework/Twitter
+c00000000505A2E030000000000005140
+t1348087299
+s20800
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000505A2E030000000000000E8D
+t1348087299
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000505A2E040000000000AB3D60
+t1348087300
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000505A2E0A0000000000001B54
+t1348087306
+s6996
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK/FacebookSDK.framework/FacebookSDK
+c00000000506C6C8900000000008451D4
+t1349282953
+s8671700
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/OBGradientView.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPAppDelegate.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPDetailViewController.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPEvent.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPImagePost.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPLoginViewController.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMainEventView.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMessagePost.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPPost.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPTertiaryEventView.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPViewController.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PartyPlusPlus.LinkFileList
+c0000000050A593DA000000000000102E
+t1353028570
+s4142
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PhotoDetailViewController.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAContentViewController.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAMenuViewController.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAViewManipulator.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SVProgressHUD.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+Color.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+fixOrientation.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIView+Frame.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIViewController+Overview.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch.pth
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app.dSYM
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/480.png
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default.png
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default@2x.png
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Info.plist
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PPPMainEventView.nib
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PPPTertiaryEventView.nib
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlus
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlusLogo.png
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PkgInfo
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PlaceKitten.png
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PlusPlus@2x.png
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/SAMenuViewController.nib
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/SVProgressHUD.bundle
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Thumbnail.png
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/en.lproj/MainStoryboard_iPad.storyboardc
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/en.lproj/MainStoryboard_iPhone.storyboardc
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb.png
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb36.png
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb64.png
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/three_lines@2x.png
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Default-568h@2x.png
+c00000000507C312800000000000048A2
+t1350316328
+s18594
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Default.png
+c00000000507C3128000000000000198C
+t1350316328
+s6540
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Default@2x.png
+c00000000507C31280000000000003EEB
+t1350316328
+s16107
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/480.png
+c00000000507C31280000000000027D6E
+t1350316328
+s163182
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/PartyPlusPlusLogo.png
+c00000000507C31280000000000004C20
+t1350316328
+s19488
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/PlaceKitten.png
+c00000000507C312800000000000301F9
+t1350316328
+s197113
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/PlusPlus@2x.png
+c00000000507C31280000000000001D44
+t1350316328
+s7492
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/Thumbnail.png
+c00000000507C31280000000000010C26
+t1350316328
+s68646
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/fb.png
+c00000000507C312800000000000022BA
+t1350316328
+s8890
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/fb36.png
+c00000000507C31280000000000000400
+t1350316328
+s1024
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/fb64.png
+c00000000507C31280000000000000EB9
+t1350316328
+s3769
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/three_lines@2x.png
+c00000000507C31280000000000000472
+t1350316328
+s1138
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/OBGradientView.m
+c00000000507C31280000000000000DCD
+t1350316328
+s3533
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPAppDelegate.m
+c00000000509325330000000000002BBF
+t1351820595
+s11199
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPDetailViewController.m
+c00000000509325240000000000005F10
+t1351820580
+s24336
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPEvent.m
+c00000000507C3128000000000000120D
+t1350316328
+s4621
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPImagePost.m
+c00000000507C312800000000000001D8
+t1350316328
+s472
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPLoginViewController.m
+c00000000507C31280000000000000D34
+t1350316328
+s3380
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMainEventView.m
+c0000000050931D850000000000001CE5
+t1351818629
+s7397
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMainEventView.xib
+c00000000507C3128000000000005C39D
+t1350316328
+s377757
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMessagePost.m
+c00000000507C312800000000000001DE
+t1350316328
+s478
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPPost.m
+c00000000507C312800000000000000FF
+t1350316328
+s255
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPTertiaryEventView.m
+c00000000507C312800000000000004AB
+t1350316328
+s1195
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPTertiaryEventView.xib
+c00000000507C31280000000000002413
+t1350316328
+s9235
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPViewController.m
+c00000000509327A200000000000078E8
+t1351821218
+s30952
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PartyPlusPlus-Prefix.pch
+c00000000507C31280000000000000149
+t1350316328
+s329
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PhotoDetailViewController.m
+c00000000507C31280000000000000AF8
+t1350316328
+s2808
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAContentViewController.m
+c00000000507C312800000000000003DD
+t1350316328
+s989
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAMenuViewController.m
+c0000000050931DA80000000000002433
+t1351818664
+s9267
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAMenuViewController.xib
+c00000000507C3128000000000005AF78
+t1350316328
+s372600
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAViewManipulator.m
+c00000000507C31280000000000001B3A
+t1350316328
+s6970
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SVProgressHUD/SVProgressHUD.bundle
+c00000000507C312800000000000000CC
+t1350316328
+s204
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SVProgressHUD/SVProgressHUD.m
+c00000000507C31280000000000004A91
+t1350316328
+s19089
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIImage+Color.m
+c00000000507C312800000000000005EA
+t1350316328
+s1514
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIImage+fixOrientation.m
+c00000000507C31280000000000000DE6
+t1350316328
+s3558
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIView+Frame.m
+c00000000507C31280000000000000BDA
+t1350316328
+s3034
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIViewController+Overview.m
+c00000000507C3128000000000000133F
+t1350316328
+s4927
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/en.lproj/InfoPlist.strings
+c00000000507C3128000000000000002D
+t1350316328
+s45
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/en.lproj/MainStoryboard_iPad.storyboard
+c00000000507C3128000000000000093E
+t1350316328
+s2366
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/en.lproj/MainStoryboard_iPhone.storyboard
+c00000000507C3A21000000000000859F
+t1350318625
+s34207
+
+N/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/main.m
+c000000005093256B000000000000015B
+t1351820651
+s347
+
+NPartyPlusPlus/PartyPlusPlus-Info.plist
+c00000000507C31280000000000000707
+t1350316328
+s1799
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/OBGradientView.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPAppDelegate.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPDetailViewController.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPEvent.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPImagePost.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPLoginViewController.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMainEventView.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMessagePost.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPPost.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPTertiaryEventView.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPViewController.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PhotoDetailViewController.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAContentViewController.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAMenuViewController.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAViewManipulator.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SVProgressHUD/SVProgressHUD.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIImage+Color.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIImage+fixOrientation.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIView+Frame.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIViewController+Overview.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa27f6a5acb55b641^a2d2845acb55b641^---0#1#0#--18"Check dependencies36"1140599D-85C3-43E1-88BE-57B2C34DDA6A-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/OBGradientView.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/OBGradientView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721371.072991
+e374721371.173895
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/OBGradientView.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/OBGradientView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/OBGradientView.m22e2125bcb55b641^ce8e2c5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/OBGradientView.m0000000000000000^4508"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/OBGradientView.o PartyPlusPlus/OBGradientView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/OBGradientView.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/OBGradientView.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/OBGradientView.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/OBGradientView.o"36"EC6A8E1C-4F56-4FF7-ABFC-8F37268ED88A-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPAppDelegate.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721370.959918
+e374721371.136068
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPAppDelegate.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPAppDelegate.md40ff65acb55b641^f6d4225bcb55b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/PPPAppDelegate.m0000000000000000^4508"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPAppDelegate.o PartyPlusPlus/PPPAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPAppDelegate.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPAppDelegate.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPAppDelegate.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPAppDelegate.o"36"19E9B73D-8049-403F-84B2-76AB1AB92499-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPDetailViewController.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPDetailViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721370.959797
+e374721371.206089
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPDetailViewController.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPDetailViewController.m4f07f65acb55b641^a9c1345bcb55b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/PPPDetailViewController.m0000000000000000^4562"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPDetailViewController.o PartyPlusPlus/PPPDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPDetailViewController.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPDetailViewController.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPDetailViewController.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPDetailViewController.o"36"4FAE9F97-A588-4486-AE31-697E8F6F158F-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPEvent.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPEvent.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721370.959835
+e374721371.088349
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPEvent.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPEvent.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPEvent.m3106f65acb55b641^529d165bcb55b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/PPPEvent.m0000000000000000^4472"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPEvent.o PartyPlusPlus/PPPEvent.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPEvent.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPEvent.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPEvent.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPEvent.o"36"F6E57BC7-FFE3-4100-8AB2-F689580CB86D-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPImagePost.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPImagePost.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721370.959948
+e374721371.071636
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPImagePost.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPImagePost.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPImagePost.mad14f65acb55b641^475a125bcb55b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/PPPImagePost.m0000000000000000^4496"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPImagePost.o PartyPlusPlus/PPPImagePost.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPImagePost.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPImagePost.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPImagePost.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPImagePost.o"36"F64D1729-D571-445E-81E7-DC9012129A10-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPLoginViewController.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPLoginViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721371.072988
+e374721371.170202
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPLoginViewController.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPLoginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPLoginViewController.m33e2125bcb55b641^6ea12b5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/PPPLoginViewController.m0000000000000000^4556"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPLoginViewController.o PartyPlusPlus/PPPLoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPLoginViewController.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPLoginViewController.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPLoginViewController.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPLoginViewController.o"36"BA285F23-D7FE-4A17-8287-43F76510FC68-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMainEventView.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMainEventView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721370.960775
+e374721371.138323
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMainEventView.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMainEventView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMainEventView.m1138f65acb55b641^7671235bcb55b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/PPPMainEventView.m0000000000000000^4520"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMainEventView.o PartyPlusPlus/PPPMainEventView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMainEventView.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMainEventView.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMainEventView.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMainEventView.o"36"167AFF97-5BC4-4D74-AC1E-DC383B853EE8-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMessagePost.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMessagePost.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721371.207465
+e374721371.242022
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMessagePost.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMessagePost.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMessagePost.ma04e355bcb55b641^b2f43d5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/PPPMessagePost.m0000000000000000^4508"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMessagePost.o PartyPlusPlus/PPPMessagePost.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMessagePost.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMessagePost.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMessagePost.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPMessagePost.o"36"846D53ED-AF34-444D-8728-8E42B794345D-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPPost.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPPost.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721370.959976
+e374721371.071639
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPPost.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPPost.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPPost.mb51af65acb55b641^a65f125bcb55b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/PPPPost.m0000000000000000^4466"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPPost.o PartyPlusPlus/PPPPost.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPPost.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPPost.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPPost.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPPost.o"36"88E228A2-D7D2-47FA-9FB5-AE0FA15D1E69-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPTertiaryEventView.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPTertiaryEventView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721371.171528
+e374721371.255855
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPTertiaryEventView.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPTertiaryEventView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPTertiaryEventView.m05162c5bcb55b641^527f415bcb55b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/PPPTertiaryEventView.m0000000000000000^4544"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPTertiaryEventView.o PartyPlusPlus/PPPTertiaryEventView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPTertiaryEventView.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPTertiaryEventView.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPTertiaryEventView.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPTertiaryEventView.o"36"EFCE21EC-AD02-4DFF-92B6-EED301D54DB6-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPViewController.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721371.072997
+e374721371.286204
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPViewController.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPViewController.m2ee3125bcb55b641^6744495bcb55b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/PPPViewController.m0000000000000000^4526"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPViewController.o PartyPlusPlus/PPPViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPViewController.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPViewController.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPViewController.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PPPViewController.o"36"4514EE5F-2F59-4DDC-9451-587CA061D770-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PhotoDetailViewController.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PhotoDetailViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721371.243414
+e374721371.303309
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PhotoDetailViewController.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PhotoDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PhotoDetailViewController.m6e873e5bcb55b641^a9a54d5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/PhotoDetailViewController.m0000000000000000^4574"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PhotoDetailViewController.o PartyPlusPlus/PhotoDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PhotoDetailViewController.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PhotoDetailViewController.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PhotoDetailViewController.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PhotoDetailViewController.o"36"DE982DF9-566F-44EA-8ABB-0C9769181E36-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAContentViewController.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAContentViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721371.175165
+e374721371.263887
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAContentViewController.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAContentViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAContentViewController.m7d092d5bcb55b641^3b8e435bcb55b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/SAContentViewController.m0000000000000000^4562"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAContentViewController.o PartyPlusPlus/SAContentViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAContentViewController.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAContentViewController.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAContentViewController.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAContentViewController.o"36"47565BD5-E255-4581-820D-51781C3BDFDA-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAMenuViewController.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAMenuViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721371.180950
+e374721371.309680
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAMenuViewController.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAMenuViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAMenuViewController.m7f832e5bcb55b641^1f474f5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/SAMenuViewController.m0000000000000000^4544"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAMenuViewController.o PartyPlusPlus/SAMenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAMenuViewController.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAMenuViewController.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAMenuViewController.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAMenuViewController.o"36"FD373941-A09B-4E8A-904D-9207D207C5A8-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAViewManipulator.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAViewManipulator.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721371.089728
+e374721371.199549
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAViewManipulator.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAViewManipulator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAViewManipulator.mb329175bcb55b641^4015335bcb55b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/SAViewManipulator.m0000000000000000^4526"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAViewManipulator.o PartyPlusPlus/SAViewManipulator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAViewManipulator.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAViewManipulator.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAViewManipulator.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SAViewManipulator.o"36"A5E72450-C1FB-4EDD-8935-3F5B02F387F1-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SVProgressHUD.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SVProgressHUD/SVProgressHUD.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721370.959877
+e374721371.150941
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SVProgressHUD.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SVProgressHUD/SVProgressHUD.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SVProgressHUD/SVProgressHUD.m6809f65acb55b641^ada3265bcb55b641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/SVProgressHUD/SVProgressHUD.m0000000000000000^4530"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SVProgressHUD.o PartyPlusPlus/SVProgressHUD/SVProgressHUD.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SVProgressHUD.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SVProgressHUD.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SVProgressHUD/SVProgressHUD.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/SVProgressHUD.o"36"EA305DD5-CB00-4FC8-8865-E8446B61939B-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+Color.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIImage+Color.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721371.137462
+e374721371.179018
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+Color.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIImage+Color.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIImage+Color.m5665235bcb55b641^f0de2d5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/UIImage+Color.m0000000000000000^4502"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+Color.o PartyPlusPlus/UIImage+Color.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+Color.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+Color.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIImage+Color.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+Color.o"36"081B4B08-B37B-47AD-B152-30BDB19C54FF-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+fixOrientation.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIImage+fixOrientation.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721371.200980
+e374721371.244296
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+fixOrientation.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIImage+fixOrientation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIImage+fixOrientation.m90a1335bcb55b641^f7923e5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/UIImage+fixOrientation.m0000000000000000^4556"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+fixOrientation.o PartyPlusPlus/UIImage+fixOrientation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+fixOrientation.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+fixOrientation.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIImage+fixOrientation.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIImage+fixOrientation.o"36"AB949C5F-ED55-4DCA-AF94-B88057605170-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIView+Frame.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIView+Frame.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721371.139709
+e374721371.248115
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIView+Frame.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIView+Frame.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIView+Frame.m30f5235bcb55b641^66843f5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/UIView+Frame.m0000000000000000^4496"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIView+Frame.o PartyPlusPlus/UIView+Frame.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIView+Frame.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIView+Frame.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIView+Frame.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIView+Frame.o"36"18F41445-9F63-437D-9C8C-0418E2BC9080-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIViewController+Overview.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIViewController+Overview.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721371.159456
+e374721371.261891
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIViewController+Overview.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIViewController+Overview.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIViewController+Overview.mc636295bcb55b641^c40a435bcb55b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/UIViewController+Overview.m0000000000000000^4574"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIViewController+Overview.o PartyPlusPlus/UIViewController+Overview.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIViewController+Overview.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIViewController+Overview.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/UIViewController+Overview.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/UIViewController+Overview.o"36"AD186AC8-41AD-42CA-8BF9-8B702DDF228E-
+
+CCompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/main.o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721370.959726
+e374721371.071666
+r1
+xCompileC
+xDerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/main.o
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/main.m431df65acb55b641^2462125bcb55b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/main.m0000000000000000^4448"CompileC DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/main.o PartyPlusPlus/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -include "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/main.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/main.m" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/main.o"36"2798BDEE-9EFB-4B30-AF57-99536A59A8C8-
+
+CCompileStoryboard "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/en.lproj/MainStoryboard_iPad.storyboard"
+s374721371.659903
+e374721372.395286
+r1
+xCompileStoryboard
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/en.lproj/MainStoryboard_iPad.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"CompileStoryboard PartyPlusPlus/en.lproj/MainStoryboard_iPad.storyboard2c0ca95bcb55b641^ca31655ccb55b641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/en.lproj/MainStoryboard_iPad.storyboard0000000000000000^1051"CompileStoryboard PartyPlusPlus/en.lproj/MainStoryboard_iPad.storyboard    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/en.lproj/MainStoryboard_iPad.storyboardc" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/en.lproj/MainStoryboard_iPad.storyboard" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"6D74F328-E682-44A3-A2DC-8DA2286EB736-
+
+CCompileStoryboard "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/en.lproj/MainStoryboard_iPhone.storyboard"
+s374721371.659861
+e374721372.240740
+r1
+xCompileStoryboard
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/en.lproj/MainStoryboard_iPhone.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"CompileStoryboard PartyPlusPlus/en.lproj/MainStoryboard_iPhone.storyboard0f0ba95bcb55b641^66153e5ccb55b641^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/en.lproj/MainStoryboard_iPhone.storyboard0000000000000000^1057"CompileStoryboard PartyPlusPlus/en.lproj/MainStoryboard_iPhone.storyboard    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/en.lproj/MainStoryboard_iPhone.storyboardc" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/en.lproj/MainStoryboard_iPhone.storyboard" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"52646974-1DA3-4397-9927-B94921D2AFD3-
+
+CCompileXIB "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMainEventView.xib"
+s374721371.659943
+e374721372.438742
+r1
+xCompileXIB
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMainEventView.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compiling /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMainEventView.xib740ba95bcb55b641^a851705ccb55b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/PPPMainEventView.xib0000000000000000^985"CompileXIB PartyPlusPlus/PPPMainEventView.xib    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PPPMainEventView.nib" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPMainEventView.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"677A67B9-25E7-4B18-9EB3-CE4C1FFC0AAA-
+
+CCompileXIB "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPTertiaryEventView.xib"
+s374721371.669835
+e374721372.384872
+r1
+xCompileXIB
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPTertiaryEventView.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compiling /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPTertiaryEventView.xib359bab5bcb55b641^1a87625ccb55b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/PPPTertiaryEventView.xib0000000000000000^997"CompileXIB PartyPlusPlus/PPPTertiaryEventView.xib    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PPPTertiaryEventView.nib" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PPPTertiaryEventView.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"BEB0149A-70CF-4A20-9CEF-7C02A4F874B5-
+
+CCompileXIB "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAMenuViewController.xib"
+s374721371.678628
+e374721372.483476
+r1
+xCompileXIB
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAMenuViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compiling /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAMenuViewController.xib18d2ad5bcb55b641^8acd7b5ccb55b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/SAMenuViewController.xib0000000000000000^997"CompileXIB PartyPlusPlus/SAMenuViewController.xib    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/SAMenuViewController.nib" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SAMenuViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"68D1092A-7F34-4C49-88D6-EDEC36985FA6-
+
+CCopyStringsFile "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/en.lproj/InfoPlist.strings" PartyPlusPlus/en.lproj/InfoPlist.strings
+s374721371.659775
+e374721371.666353
+r1
+xCopyStringsFile
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/en.lproj/InfoPlist.strings
+xPartyPlusPlus/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy PartyPlusPlus/en.lproj/InfoPlist.stringsc30ca95bcb55b641^fb95aa5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/en.lproj/InfoPlist.strings0000000000000000^695"CopyStringsFile DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/en.lproj/InfoPlist.strings PartyPlusPlus/en.lproj/InfoPlist.strings    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/en.lproj" -- PartyPlusPlus/en.lproj/InfoPlist.strings36"AB53676F-0F97-4320-99B7-62AC5E0AE871-
+
+CCpResource PartyPlusPlus/Default-568h@2x.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default-568h@2x.png
+s374721371.659850
+e374721371.669934
+r1
+xCpResource
+xPartyPlusPlus/Default-568h@2x.png
+xDerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default-568h@2x.png0f0fa95bcb55b641^8481ab5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default-568h@2x.png000000000080d041^735"CpResource "PartyPlusPlus/Default-568h@2x.png" "DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default-568h@2x.png"    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Default-568h@2x.png" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"36"BDDA0450-0A9D-4798-A7B4-591834E84E04-
+
+CCpResource PartyPlusPlus/Default.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default.png
+s374721371.659799
+e374721371.668656
+r1
+xCpResource
+xPartyPlusPlus/Default.png
+xDerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default.png8d0da95bcb55b641^6f2dab5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default.png000000000080d041^707"CpResource PartyPlusPlus/Default.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default.png    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Default.png" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"36"51748A65-106F-4273-8955-80E172B72E3A-
+
+CCpResource PartyPlusPlus/Default@2x.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default@2x.png
+s374721371.659804
+e374721371.670657
+r1
+xCpResource
+xPartyPlusPlus/Default@2x.png
+xDerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default@2x.pngaa0ea95bcb55b641^c4b0ab5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@163"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default@2x.png000000000080d041^720"CpResource "PartyPlusPlus/Default@2x.png" "DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Default@2x.png"    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Default@2x.png" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"36"65C7755D-EE25-4B84-BF40-5B4EBA42BE29-
+
+CCpResource PartyPlusPlus/Images/480.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/480.png
+s374721371.667596
+e374721371.673663
+r1
+xCpResource
+xPartyPlusPlus/Images/480.png
+xDerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/480.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/480.png5cffaa5bcb55b641^5c76ac5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/480.png000000000080d041^709"CpResource PartyPlusPlus/Images/480.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/480.png    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/480.png" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"36"72977FE8-2AD7-48AD-A72E-C7A7451CDA3B-
+
+CCpResource PartyPlusPlus/Images/PartyPlusPlusLogo.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlusLogo.png
+s374721371.674891
+e374721371.678677
+r1
+xCpResource
+xPartyPlusPlus/Images/PartyPlusPlusLogo.png
+xDerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlusLogo.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlusLogo.pngcfdbac5bcb55b641^b5c5ad5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@170"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlusLogo.png000000000080d041^751"CpResource PartyPlusPlus/Images/PartyPlusPlusLogo.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlusLogo.png    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/PartyPlusPlusLogo.png" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"36"2FA04986-1DF1-4ACC-8C33-F38D6E940FD8-
+
+CCpResource PartyPlusPlus/Images/PlaceKitten.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PlaceKitten.png
+s374721371.659915
+e374721371.669624
+r1
+xCpResource
+xPartyPlusPlus/Images/PlaceKitten.png
+xDerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PlaceKitten.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PlaceKitten.png020ea95bcb55b641^116dab5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PlaceKitten.png000000000080d041^733"CpResource PartyPlusPlus/Images/PlaceKitten.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PlaceKitten.png    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/PlaceKitten.png" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"36"8406EFE8-BB94-4608-A29B-28F2777C4AE2-
+
+CCpResource PartyPlusPlus/Images/PlusPlus@2x.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PlusPlus@2x.png
+s374721371.679881
+e374721371.689155
+r1
+xCpResource
+xPartyPlusPlus/Images/PlusPlus@2x.png
+xDerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PlusPlus@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PlusPlus@2x.pnga31eae5bcb55b641^696fb05bcb55b641^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PlusPlus@2x.png000000000080d041^737"CpResource "PartyPlusPlus/Images/PlusPlus@2x.png" "DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PlusPlus@2x.png"    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/PlusPlus@2x.png" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"36"FB50EC15-E694-4A51-BDCE-2190B2969157-
+
+CCpResource PartyPlusPlus/Images/Thumbnail.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Thumbnail.png
+s374721371.669847
+e374721371.674028
+r1
+xCpResource
+xPartyPlusPlus/Images/Thumbnail.png
+xDerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Thumbnail.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Thumbnail.png8a93ab5bcb55b641^e38dac5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Thumbnail.png000000000080d041^727"CpResource PartyPlusPlus/Images/Thumbnail.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Thumbnail.png    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/Thumbnail.png" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"36"30C0A241-0D5B-4768-ADA7-90F4C1B0FDDD-
+
+CCpResource PartyPlusPlus/Images/fb.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb.png
+s374721371.674883
+e374721371.677415
+r1
+xCpResource
+xPartyPlusPlus/Images/fb.png
+xDerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb.pngdbdcac5bcb55b641^666bad5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb.png000000000080d041^706"CpResource PartyPlusPlus/Images/fb.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb.png    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/fb.png" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"36"ACD02A8A-FEA9-4B81-A482-74AD6846A86E-
+
+CCpResource PartyPlusPlus/Images/fb36.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb36.png
+s374721371.677458
+e374721371.679747
+r1
+xCpResource
+xPartyPlusPlus/Images/fb36.png
+xDerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb36.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb36.png7287ad5bcb55b641^4b04ae5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb36.png000000000080d041^712"CpResource PartyPlusPlus/Images/fb36.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb36.png    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/fb36.png" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"36"0EC8BAF2-50B0-4B63-A4BE-002193179E61-
+
+CCpResource PartyPlusPlus/Images/fb64.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb64.png
+s374721371.677470
+e374721371.680820
+r1
+xCpResource
+xPartyPlusPlus/Images/fb64.png
+xDerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb64.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb64.pngd388ad5bcb55b641^8c4aae5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb64.png000000000080d041^712"CpResource PartyPlusPlus/Images/fb64.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/fb64.png    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/fb64.png" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"36"FCAC6C57-5FB5-4E5F-910A-B9F5670B467D-
+
+CCpResource PartyPlusPlus/Images/three_lines@2x.png DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/three_lines@2x.png
+s374721371.671084
+e374721371.676193
+r1
+xCpResource
+xPartyPlusPlus/Images/three_lines@2x.png
+xDerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/three_lines@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/three_lines@2x.pngaddcab5bcb55b641^da1aad5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@167"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/three_lines@2x.png000000000080d041^746"CpResource "PartyPlusPlus/Images/three_lines@2x.png" "DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/three_lines@2x.png"    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/Images/three_lines@2x.png" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"36"AD19F31E-0636-4A13-8160-DBA804BDAE83-
+
+CCpResource PartyPlusPlus/SVProgressHUD/SVProgressHUD.bundle DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/SVProgressHUD.bundle
+s374721371.671077
+e374721371.676227
+r1
+xCpResource
+xPartyPlusPlus/SVProgressHUD/SVProgressHUD.bundle
+xDerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/SVProgressHUD.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/SVProgressHUD.bundle05dcab5bcb55b641^a31fad5bcb55b641^---0#0#0#-19%DVTDocumentLocation2@169"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/SVProgressHUD.bundle000000000080d041^762"CpResource PartyPlusPlus/SVProgressHUD/SVProgressHUD.bundle DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/SVProgressHUD.bundle    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/SVProgressHUD/SVProgressHUD.bundle" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"36"1B5FADDA-FEFA-4137-8BA2-9E8132AA960C-
+
+CGenerateDSYMFile "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app.dSYM" "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlus"
+s374721371.534479
+e374721371.651698
+r1
+xGenerateDSYMFile
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app.dSYM
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlus
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Generating /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app.dSYM40f8885bcb55b641^e5d4a65bcb55b641^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app.dSYM000000000080d041^840"GenerateDSYMFile DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app.dSYM DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlus    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlus" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app.dSYM"36"9D797D90-E39D-4D26-B0B6-A657504A0270-
+
+CLd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlus" normal i386
+s374721371.319092
+e374721371.527864
+r1
+xLd
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlus
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Link /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlus0edc515bcb55b641^0822875bcb55b641^---0#0#0#--1753"Ld DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlus normal i386    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk "-L/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" -filelist "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/Objects-normal/i386/PartyPlusPlus.LinkFileList" -Xlinker -objc_abi_version -Xlinker 2 -lsqlite3.0 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -framework Twitter -framework MobileCoreServices -weak_framework Accounts -weak_framework AdSupport -weak_framework Social -framework QuartzCore -framework UIKit -framework Foundation -framework CoreGraphics -framework FacebookSDK -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PartyPlusPlus"36"43ACA827-94E1-44B9-AEE7-D1BC58E81140-
+
+CProcessInfoPlistFile "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Info.plist" PartyPlusPlus/PartyPlusPlus-Info.plist
+s374721370.528099
+e374721370.531566
+r1
+xProcessInfoPlistFile
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Info.plist
+xPartyPlusPlus/PartyPlusPlus-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process PartyPlusPlus/PartyPlusPlus-Info.plist724f875acb55b641^c424885acb55b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/PartyPlusPlus-Info.plist0000000000000000^836"ProcessInfoPlistFile DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Info.plist PartyPlusPlus/PartyPlusPlus-Info.plist    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PartyPlusPlus/PartyPlusPlus-Info.plist -genpkginfo "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app/Info.plist"36"B5A809BF-AA80-4CB6-935F-98526E418010-
+
+CProcessPCH "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch.pth" PartyPlusPlus/PartyPlusPlus-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s374721370.543370
+e374721370.952813
+r1
+xProcessPCH
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch.pth
+xPartyPlusPlus/PartyPlusPlus-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile PartyPlusPlus/PartyPlusPlus-Prefix.pch15708b5acb55b641^42edf35acb55b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/Robby/Desktop/Xcode%20Projects/PartyPlusPlus/PartyPlusPlus/PartyPlusPlus-Prefix.pch0000000000000000^4324"ProcessPCH DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch.pth PartyPlusPlus/PartyPlusPlus-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-generated-files.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-own-target-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-all-target-headers.hmap" -iquote "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/PartyPlusPlus-project-headers.hmap" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PartyPlusPlus.build/Debug-iphonesimulator/PartyPlusPlus.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus" "-F/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/../../../Documents/FacebookSDK" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch.dia" -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/PartyPlusPlus/PartyPlusPlus-Prefix.pch" -o "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Intermediates/PrecompiledHeaders/PartyPlusPlus-Prefix-fjevozafomotqjeiewfyqsgabxjb/PartyPlusPlus-Prefix.pch.d"36"F1E5D7D6-02C7-4694-A60A-7B1A7413A205-
+
+CProcessPCH "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Index/PrecompiledHeaders/PartyPlusPlus-Prefix-ccjotpwhiyofxiblqbzdibspuykb_ast/PartyPlusPlus-Prefix.pch.pth" PartyPlusPlus/PartyPlusPlus-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"
+s374721372.491097
+e374721372.498600
+r1
+xTouch
+x/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Touch /Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app35cf7d5ccb55b641^eca37f5ccb55b641^---0#0#0#--496"Touch DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app    cd "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Robby/Desktop/Xcode Projects/PartyPlusPlus/DerivedData/PartyPlusPlus/Build/Products/Debug-iphonesimulator/PartyPlusPlus.app"36"84F4DC02-092E-422C-8490-D9226F509E85-
+
